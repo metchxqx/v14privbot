@@ -1,7 +1,7 @@
 # v14privbot
 
 
-Discord v14 priv bot web panelli 7 adet dil destekli 
+Discord v14 priv bot web panelli 7 adet dil destekli altyapı 3 aydır geliştirilemktedir kurulum ve hatalarda destek saglanır 
 
 
 SATIN ALIMLAR İÇİN @sevenkalbimmsarhoss
