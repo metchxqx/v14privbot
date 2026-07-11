@@ -12,3 +12,4 @@ SATIN ALIMLAR İÇİN @sevenkalbimmsarhoss
 ![Resim](https://cdn.discordapp.com/attachments/1524154433804570725/1525635232143773857/image.png?ex=6a541a08&is=6a52c888&hm=e7b2e2e5fc02f8494af60301a99f70cac4515c2f24429b41fcbd67052b17f62e)
 ![Resim](https://cdn.discordapp.com/attachments/1524154433804570725/1525635174086344765/image.png?ex=6a5419fa&is=6a52c87a&hm=ddb8bb48a29c83ba480b86376df53f589f1b18e5755d56962dcb485179ff641f)
 ![Resim](https://cdn.discordapp.com/attachments/1524154433804570725/1525635130398478406/image.png?ex=6a5419f0&is=6a52c870&hm=a7e26a343f428abcde4ede4308dc2df76d4c858bdf78a20760fb05214c473662)
+![Resim](https://cdn.discordapp.com/attachments/1524154433804570725/1525637703347994685/image.png?ex=6a541c55&is=6a52cad5&hm=4a3108624f08b3c9ba50b6e28a9a29aeae08503d3813933edfa2ff71f6216270)
