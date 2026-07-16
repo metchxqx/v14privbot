@@ -13,6 +13,7 @@ Discord v14 priv bot web panelli 7 adet dil destekli altyapı 3 aydır geliştir
 
 [ -  ] Kick yayın sistemleri ekleniyor 
 
+[ -  ] Whatsap bildirim sistemleri ekleniyor 
 
 
 
