@@ -12,6 +12,9 @@ Discord v14 priv bot web panelli 7 adet dil destekli altyapı 3 aydır geliştir
 
 [ -  ] Guard sistemleri ekleniyor 
 
+[ -  ] Kick yayın sistemleri ekleniyor 
+
+
 # SATIN ALIMLAR İÇİN @sevenkalbimmsarhoss
 
 
