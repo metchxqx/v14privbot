@@ -15,6 +15,8 @@ Discord v14 priv bot web panelli 7 adet dil destekli altyapı 3 aydır geliştir
 
 [ -  ] Whatsap bildirim sistemleri ekleniyor 
 
+[ -  ] Telegram bildirim sistemleri ekleniyor 
+
 
 
 # SATIN ALIMLAR İÇİN @sevenkalbimmsarhoss
