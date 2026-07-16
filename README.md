@@ -8,11 +8,12 @@ Discord v14 priv bot web panelli 7 adet dil destekli altyapı 3 aydır geliştir
 
 [ + ] Bot panelinde visual studio code benzeri bir panelde mevcuttur panel içinde dosya yapınızı görebilir , dosyalar ekliyebilir , klasör ekleyip silebilirsiniz visual studio tarzı uygulamara gerek kalmaz 
 
-[ -  ] Kelime Tahmnin Komutu ekleniyor 
 
-[ -  ] Guard sistemleri ekleniyor 
+[ + ] Guard sistemleri eklenmiştir  16/07/2026 
 
 [ -  ] Kick yayın sistemleri ekleniyor 
+
+
 
 
 # SATIN ALIMLAR İÇİN @sevenkalbimmsarhoss
