@@ -15,6 +15,8 @@ Discord v14 priv bot web panelli 7 adet dil destekli altyapı 3 aydır geliştir
 
 [ +  ] Youtube yayın , video sistemleri eklenmiştir 18/07/2026 
 
+# YAKINDA 
+
 [ -  ] Whatsap bildirim sistemleri ekleniyor 
 
 [ -  ] Telegram bildirim sistemleri ekleniyor 
